@@ -8,3 +8,5 @@
 }
 
 @end
+
+// КОД В ФАЙЛЕ APPDELIGATE.M/
