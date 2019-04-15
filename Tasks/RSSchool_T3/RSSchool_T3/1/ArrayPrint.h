@@ -18,3 +18,9 @@
 @interface NSArray (RSSchool_Extension_Name)
 - (NSString *)print;
 @end
+
+
+
+
+
+
